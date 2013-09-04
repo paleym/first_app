@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+
+# Ignore other uneeded files.
+database.yml
+doc/
+*.swp
+8~
+.project
+.DS_Store
+.idea
+.secret
